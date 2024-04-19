@@ -53,6 +53,7 @@ nav{
 nav a{
     cursor: pointer;
     font-size: 22px;
+    font-weight: 700;
 }
 
 /* burger here */

@@ -111,7 +111,8 @@ section, .section{
 }
 
 .section2 .hero .imgDiv{
-    background-image: url(../images/placeholder.png);
+    background-image: url(../images/projects/projet-pleiades.png);
     background-color: salmon;
+    background-size: cover;
 }
 

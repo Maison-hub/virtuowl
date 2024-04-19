@@ -51,68 +51,68 @@
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="/_nuxt/assets/images/team/antoine.png"/>
+            image="~/assets/images/team/antoine.png"/>
 
             <teamcard 
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="/_nuxt/assets/images/team/caro.png"/>
+            image="~/assets/images/team/caro.png"/>
 
             <teamcard 
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="/_nuxt/assets/images/team/lilou.png"/>
+            image="~/assets/images/team/lilou.png"/>
 
             <teamcard 
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="/_nuxt/assets/images/team/lucas.png"/>
+            image="~/assets/images/team/lucas.png"/>
 
             <teamcard 
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="/_nuxt/assets/images/team/milan.png"/>
+            image="~/assets/images/team/milan.png"/>
 
             <teamcard 
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="/_nuxt/assets/images/team/nicolas.png"/>
+            image="~/assets/images/team/nicolas.png"/>
 
             <teamcard 
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="/_nuxt/assets/images/team/nils.png"/>
+            image="~assets/images/team/nils.png"/>
 
             <teamcard 
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="/_nuxt/assets/images/team/noemi.png"/>
+            image="~/assets/images/team/noemi.png"/>
 
             <teamcard 
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="/_nuxt/assets/images/team/sarguis.png"/>
+            image="~/assets/images/team/sarguis.png"/>
 
             <teamcard 
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="/_nuxt/assets/images/team/valentin.png"/>
+            image="~/assets/images/team/valentin.png"/>
 
         </div>
     </section>
 
     <section class="idvisu">
         <h2>identité visuel</h2>
-        <img src="/_nuxt/assets/images/charte_graphique.png" alt="charte graphique">
+        <img src="~/assets/images/charte_graphique.png" alt="charte graphique">
         <p>L’agence Virtu’Owl a choisi le hibou comme symbole complémentaire à son nom, en raison de sa capacité à voir tout autour de lui, similaire à l’objectif d’une caméra 360°.
  
 Le logo de l’entreprise est une combinaison du nom et du pictogramme. 

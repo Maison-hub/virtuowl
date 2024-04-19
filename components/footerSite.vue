@@ -8,13 +8,13 @@
 
     <div class="rs">
         <a href="https://www.youtube.com/channel/UC6hz5XTZE2QkGsolAwCr88Q">
-            <img src="/_nuxt/assets/images//rs/youtube.svg" alt="youtube">
+            <img src="~/assets/images/rs/youtube.svg" alt="youtube">
         </a>
         <a href="https://www.linkedin.com/company/103465534/admin/feed/posts/?feedType=following">
-            <img src="/_nuxt/assets/images//rs/linkedin.svg" alt="linkedin">
+            <img src="~/assets/images/rs/linkedin.svg" alt="linkedin">
         </a>
         <a href="https://www.instagram.com/virtuowl.ncy/">
-            <img src="/_nuxt/assets/images//rs/youtube.svg" alt="insta">
+            <img src="~/assets/images/rs/youtube.svg" alt="insta">
         </a>
     </div>
     <p>
