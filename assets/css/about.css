@@ -1,0 +1,89 @@
+.toppart{
+    background-color: var(--blue);
+    color: var(--white);
+}
+.title{
+    font-size: 8vw; 
+    text-transform: uppercase;
+    font-weight: 1000;
+    width: 100%;
+    text-align: center;
+}
+.title.stroke{
+    -webkit-text-stroke: 1px #fffbf266;
+    color: transparent;
+    top: -20%;
+    
+}
+
+section{
+    height: auto;
+    padding: 0 10vw;
+}
+
+h2{
+    -webkit-text-stroke: 1px var(--white);
+    color: transparent;
+    font-size: clamp(2rem, 5vw, 5rem);
+    font-weight: 800;
+
+}
+
+.histoire{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    gap: 10vh;
+}
+
+.histoire p{
+    line-height: 1.8;
+}
+
+.valeurs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.listVal{
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.listVal .valItem{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.listVal .valItem p{
+    font-size: clamp(1rem, 2vw, 2rem);
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.equipe{
+    padding: 10vh 0;
+    background-color: var(--white);
+    color: var(--blue);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.equipe h2{
+    -webkit-text-stroke: 1px var(--blue);
+}
