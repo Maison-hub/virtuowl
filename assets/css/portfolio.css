@@ -1,0 +1,30 @@
+section, .section{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+.toppart{
+    background-color: var(--blue);
+    color: var(--white);
+}
+
+.title{
+    font-size: 14vw; 
+    text-transform: uppercase;
+    font-weight: 1000;
+    width: 100%;
+    text-align: center;
+}
+.title.stroke{
+    -webkit-text-stroke: 1px #fffbf266;
+    color: transparent;
+    top: -20%;
+    
+}
+
+.subtitle{
+    margin-top: 5vh;
+    text-align: center;
+    font-size: 22px;
+}

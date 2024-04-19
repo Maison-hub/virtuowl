@@ -57,12 +57,14 @@ section, .section{
 .section2{
     background-color: var(--white);
     color: var(--blue);
+    padding: 0;
 }
 
 .section2 h2{
     font-size: 5vw;
     font-weight: 1000;
     text-transform: uppercase;
+    color: var(--blue);
 }
 
 .section2 h3{

@@ -42,6 +42,7 @@
             </div>
         </section>
     </div>
+    <footerSite/>
 </template>
 
 <script>
