@@ -51,7 +51,7 @@
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            :image="'/_nuxt/assets/images/team/antoine.png'"/>
+            :image="'/team/antoine.png'"/>
 
             <teamcard 
             name="Jean" 

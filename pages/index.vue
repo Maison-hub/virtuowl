@@ -36,7 +36,7 @@
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     </p>
                 </div>
-                <a href="">
+                <a href="https://rubeo-lisa.but22.iutn.o2switch.site/virtuowl/Visite%20360%20Th%d0%92atre_export/">
                 <div class="imgDiv">
                     <div class="img"></div>
                 </div>

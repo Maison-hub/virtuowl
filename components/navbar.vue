@@ -12,7 +12,6 @@
            <NuxtLink to="/"><a>Home</a></NuxtLink>
             <NuxtLink to="/about"><a>à propos</a></NuxtLink>
             <NuxtLink to="/portfolio"><a>Portfolio</a></NuxtLink>
-            <a>Contact</a>
         </ul>
     </div>
 </template>
