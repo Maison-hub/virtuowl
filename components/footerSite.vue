@@ -14,7 +14,7 @@
             <img src="~/assets/images/rs/linkedin.svg" alt="linkedin">
         </a>
         <a href="https://www.instagram.com/virtuowl.ncy/">
-            <img src="~/assets/images/rs/youtube.svg" alt="insta">
+            <img src="~/assets/images/rs/insta.svg" alt="insta">
         </a>
     </div>
     <p>

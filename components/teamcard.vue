@@ -1,7 +1,6 @@
 <script setup>
 const props = defineProps(['name', 'description', 'quote', 'image'])
 
-console.log(props.quote)
 </script>
 
 <template>

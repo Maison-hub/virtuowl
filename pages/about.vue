@@ -51,61 +51,61 @@
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="~/assets/images/team/antoine.png"/>
+            :image="'/_nuxt/assets/images/team/antoine.png'"/>
 
             <teamcard 
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="~/assets/images/team/caro.png"/>
+            image="'/_nuxt/assets/images/team/caro.png'"/>
 
             <teamcard 
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="~/assets/images/team/lilou.png"/>
+            image="/_nuxt/assets/images/team/lilou.png"/>
 
             <teamcard 
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="~/assets/images/team/lucas.png"/>
+            image="/_nuxt/assets/images/team/lucas.png"/>
 
             <teamcard 
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="~/assets/images/team/milan.png"/>
+            image="/_nuxt/assets/images/team/milan.png"/>
 
             <teamcard 
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="~/assets/images/team/nicolas.png"/>
+            image="/_nuxt/assets/images/team/nicolas.png"/>
 
             <teamcard 
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="~assets/images/team/nils.png"/>
+            image="/_nuxt/assets/images/team/nils.png"/>
 
             <teamcard 
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="~/assets/images/team/noemi.png"/>
+            image="/_nuxt/assets/images/team/noemi.png"/>
 
             <teamcard 
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="~/assets/images/team/sarguis.png"/>
+            image="/_nuxt/assets/images/team/sarguis.png"/>
 
             <teamcard 
             name="Jean" 
             description="Jean est un super dev qui gère de ouf il a plein de super compétences" 
             quote="Jadore la vie" 
-            image="~/assets/images/team/valentin.png"/>
+            image="/_nuxt/assets/images/team/valentin.png"/>
 
         </div>
     </section>
@@ -123,6 +123,7 @@ Les yeux du hibou sont mis en avant, car ils font référence à l’objectif de
 Le logo lui-même se décline en différentes couleurs et arrière-plans. Les couleurs de la marque incluent un noir tiré vers un bleu nuit, ainsi qu’un bleu plus clair en référence à la technologie. Le blanc et le jaune sont utilisés pour mettre en valeur certains éléments, comme les yeux des hiboux, tandis qu’un bleu violet relie l’ensemble des couleurs et les met en valeur.</p>
     </section>
 
+    <footerSite />
 
 </template>
 
@@ -133,5 +134,7 @@ Le logo lui-même se décline en différentes couleurs et arrière-plans. Les co
 <script setup>
 
 import '~/assets/css/about.css'
+
+const imagePath = ref('/_nuxt/assets/images/team/antoine.png')
 
 </script>
